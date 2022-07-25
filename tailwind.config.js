@@ -9,8 +9,9 @@ module.exports = {
         'blue': '#0000FF',
         'purple': '#A700CC',
         'pink': '#D9008F',
-        'red': '#EC0051'
-      }
+        'red': '#EC0051',
+        'darkBlue': '#050A30'
+      },
     },
   },
   plugins: [],
